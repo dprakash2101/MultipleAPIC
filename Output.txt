@@ -1,0 +1,207 @@
+class Contact {
+  Id: 1
+  FirstName: Prakash
+  LastName: K
+  NickName: DP
+  Age: 22
+  DateTimeCreated: 11/30/2023 1:34:46 PM
+  IsDeleted: False
+}
+
+class Contact {
+  Id: 2
+  FirstName: Vamsi
+  LastName: K
+  NickName: Sai
+  Age: 20
+  DateTimeCreated: 11/30/2023 1:34:46 PM
+  IsDeleted: False
+}
+
+class Contact {
+  Id: 3
+  FirstName: Hari
+  LastName: B
+  NickName: Hari
+  Age: 30
+  DateTimeCreated: 11/30/2023 1:34:46 PM
+  IsDeleted: False
+}
+
+class Contact {
+  Id: 4
+  FirstName: Vamsi
+  LastName: KA
+  NickName: Vamsi
+  Age: 40
+  DateTimeCreated: 11/30/2023 1:34:46 PM
+  IsDeleted: False
+}
+
+class Contact {
+  Id: 5
+  FirstName: Krishna
+  LastName: A
+  NickName: Krishn
+  Age: 25
+  DateTimeCreated: 11/30/2023 1:34:46 PM
+  IsDeleted: False
+}
+
+class Employee {
+  EmployeeId: 1
+  Name: Ravi
+  Age: 55
+  Department: SR
+  Experience: 35
+  BloodGroup: A+
+  FatherName: Raju
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 5/21/1985 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee,Admin
+  IsSupervisor: True
+  IsManager: True
+}
+
+class Employee {
+  EmployeeId: 2
+  Name: Krishna
+  Age: 25
+  Department: SR
+  Experience: 4
+  BloodGroup: O+
+  FatherName: Kramis
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 10/1/2018 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: False
+  IsManager: False
+}
+
+class Employee {
+  EmployeeId: 6
+  Name: Lingam
+  Age: 50
+  Department: SCR
+  Experience: 28
+  BloodGroup: O-
+  FatherName: Krish
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 5/10/1998 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: True
+  IsManager: True
+}
+
+class Employee {
+  EmployeeId: 7
+  Name: Krupa
+  Age: 35
+  Department: SCR
+  Experience: 14
+  BloodGroup: B-
+  FatherName: Krupakar
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 1/1/2000 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: True
+  IsManager: False
+}
+
+class Employee {
+  EmployeeId: 9
+  Name: Machini
+  Age: 40
+  Department: NR
+  Experience: 19
+  BloodGroup: AB+
+  FatherName: Kijaru
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 1/1/1995 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: True
+  IsManager: False
+}
+
+class Employee {
+  EmployeeId: 11
+  Name: Nirup
+  Age: 45
+  Department: NR
+  Experience: 24
+  BloodGroup: A-
+  FatherName: Macu
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 1/1/1990 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: True
+  IsManager: True
+}
+
+class Employee {
+  EmployeeId: 14
+  Name: Nalini
+  Age: 22
+  Department: SCR
+  Experience: 1
+  BloodGroup: B+
+  FatherName: Narup
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 1/1/2022 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employe
+  IsSupervisor: False
+  IsManager: False
+}
+
+class Employee {
+  EmployeeId: 15
+  Name: Krupakar
+  Age: 32
+  Department: WR
+  Experience: 10
+  BloodGroup: A+
+  FatherName: Ramakrishna
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 10/1/2018 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: True
+  IsManager: False
+}
+
+class Employee {
+  EmployeeId: 16
+  Name: Giridar
+  Age: 25
+  Department: WR
+  Experience: 4
+  BloodGroup: A+
+  FatherName: Ramakrishna
+  IsDeleted: False
+  IsActive: True
+  DateOfCreated: 10/1/2018 12:00:00 AM
+  DateOfUpdated: 11/1/2023 12:00:00 AM
+  Roles: Employee
+  IsSupervisor: False
+  IsManager: False
+}
+
+
+C:\Users\inprak02\source\repos\MultipleAPIC\MultipleAPIC\bin\Debug\net7.0\MultipleAPIC.exe (process 16020) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
